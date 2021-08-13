@@ -33,7 +33,7 @@ Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&show_icons=true)
 
 
-<a href="https://www.linkedin.com/in/rodrigocarmo97/">LinkedIn</a>&nbsp;<a href="mailto:roo.carmo@gmail.com">Gmail</a>
+<div align="right" ><a href="https://www.linkedin.com/in/rodrigocarmo97/">LinkedIn</a>&nbsp;<a href="mailto:roo.carmo@gmail.com">Gmail</a></div>
 
 
 
