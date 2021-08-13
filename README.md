@@ -7,7 +7,7 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 - ⚙  Atualmente estou fazendo um trabalho freelancer para um e-commerce.
 - 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
 
 
