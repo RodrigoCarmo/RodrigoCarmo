@@ -10,6 +10,6 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 - 📫 How to reach me:
 
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/rodrigocarmo97/) &nbsp;&nbsp;
-[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:roo.carmo@gmail.com)&nbsp;&nbsp;
+[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:roo.carmo@gmail.com)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&show_icons=true)
 
