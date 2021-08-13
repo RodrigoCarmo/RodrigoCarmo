@@ -29,8 +29,7 @@ Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 
 
 
-- 📫 Onde me encontrar:
-[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/rodrigocarmo97/) &nbsp;
+<a href="https://www.linkedin.com/in/rodrigocarmo97/">Linkedin</a>
 [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:roo.carmo@gmail.com)<br>
 
 
