@@ -9,10 +9,7 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 - 👨‍💻 As principais ferramentas que utilizo são:  
 
 <a href="https://nodejs.org/en/"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" /></a> &nbsp;
-
 <a href="https://www.typescriptlang.org//"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" /></a> &nbsp;
-
-
 <a href="https://nestjs.com/"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></a> &nbsp;
 
 <a href="https://www.mongodb.com/pt-br"><img width="48px" height="48px" alt="MongoDB" src="https://cdn.iconicons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /></a>
