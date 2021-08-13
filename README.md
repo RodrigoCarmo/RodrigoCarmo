@@ -9,15 +9,7 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 - 👨‍💻 As principais ferramentas que utilizo são: 
 
 - [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)]
-- Docker
-- Nest.js/Express 
-- TypeORM
-- MongoDB/PostgresSQL/SQLite 
-- Jest/Supertest
-- GraphQL 
-- Amazon Web Services
-- Typescript/Javascript 
-- Git/GitHub
+
 
 - 📫 Onde me encontrar:
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/rodrigocarmo97/) &nbsp;
