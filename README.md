@@ -13,8 +13,8 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 <a href="https://www.javascript.com/"><img width="48px" height="48px" alt="Javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" /></a> &nbsp;
 <a href="https://nestjs.com/"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></a> &nbsp;
 <a href="https://www.mongodb.com/pt-br"><img width="48px" height="48px" alt="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" /></a>
-<a href="https://www.postgresql.org/"><img width="48px" height="48px" alt="PostgresSQL" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" /></a> &nbsp;
-<a href="https://graphql.org/"><img width="48px" height="48px" alt="GrapqhQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" /></a> &nbsp;<br>
+<a href="https://www.postgresql.org/"><img width="48px" height="48px" alt="PostgresSQL" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" /></a> &nbsp; <br>
+<a href="https://graphql.org/"><img width="48px" height="48px" alt="GrapqhQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" /></a> &nbsp;
 <a href="https://www.docker.com/"><img width="48px" height="48px" alt="Docker" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" /></a> &nbsp;
 <a href="https://typeorm.io/#/"><img width="48px" height="48px" alt="TypeORM" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" /></a> &nbsp;
 <a href="https://jestjs.io/pt-BR/"><img width="48px" height="48px" alt="Jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" /></a> &nbsp;
