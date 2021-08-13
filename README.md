@@ -20,7 +20,7 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 <a href="https://jestjs.io/pt-BR/"><img width="48px" height="48px" alt="Jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" /></a> &nbsp;
 
 
-<a href="https://aws.amazon.com/pt/" ><img width="48px" height="48px" align="center" alt="Amazon Web Services" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" /></a>
+<a href="https://aws.amazon.com/pt/" ><img width="48px" height="48px"alt="Amazon Web Services" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/amazon_aws_logo_icon_145507.png" /></a> &nbsp;
 <a href="https://git-scm.com/"><img width="48px" height="48px" alt="Git" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" /></a> 
 
 
