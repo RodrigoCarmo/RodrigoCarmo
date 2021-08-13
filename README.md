@@ -7,8 +7,9 @@ Me chamo Rodrigo, tenho 23 anos e sou um programador back-end.
 - ⚙  Atualmente estou fazendo um trabalho freelancer para um e-commerce.
 - 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;![Typescript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;![Javascript](https://img.icons8.com/color/48/000000/javascript--v2.png)&nbsp;<img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" />&nbsp;
-  <a href="https://www.mongodb.com/pt-br"><img width="48px" height="48px" alt="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /></a>
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp;![Typescript](https://img.icons8.com/color/48/000000/typescript.png)&nbsp;![Javascript](https://img.icons8.com/color/48/000000/javascript--v2.png)&nbsp;
+<a href="https://nestjs.com/"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></a> &nbsp;
+<a href="https://www.mongodb.com/pt-br"><img width="48px" height="48px" alt="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /></a>
 
 
 
