@@ -8,6 +8,7 @@ Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 - 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   <a href="https://nodejs.org/en/"><img width="48px" height="48px" alt="NodeJS" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" /></a> &nbsp;
   <a href="https://www.typescriptlang.org//"><img width="48px" height="48px" alt="Typescript" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" /></a> &nbsp;
   <a href="https://www.javascript.com/"><img width="48px" height="48px" alt="Javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" /></a> &nbsp;
