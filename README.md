@@ -8,13 +8,12 @@ Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 - 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- &nbsp;
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-  <a href="https://www.javascript.com/"><img width="48px" height="48px" alt="Javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" /></a> &nbsp;
-  <a href="https://nestjs.com/"><img width="48px" height="48px" alt="NestJS" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" /></a> &nbsp;
-  <a href="https://www.mongodb.com/pt-br"><img width="48px" height="48px" alt="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" /></a>
-  <a href="https://www.postgresql.org/"><img width="48px" height="48px" alt="PostgresSQL" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png" /></a> &nbsp; <br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) $nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp; <br>
   <a href="https://graphql.org/"><img width="48px" height="48px" alt="GrapqhQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" /></a> &nbsp;
   <a href="https://www.docker.com/"><img width="48px" height="48px" alt="Docker" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" /></a> &nbsp;
   <a href="https://typeorm.io/#/"><img width="48px" height="48px" alt="TypeORM" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" /></a> &nbsp;
