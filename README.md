@@ -1,5 +1,7 @@
-<style type="text/css" rel="stylesheet">
-* { color: red; }
+<style>
+mark{
+    color:red;
+}
 </style>
 
 ### Olá 👋
