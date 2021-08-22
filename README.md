@@ -1,6 +1,7 @@
 ### Olá 👋
 
-<img width="35%" align="right" alt="Github" src="https://e7.pngegg.com/pngimages/228/733/png-clipart-github-grafana-desktop-github-logo-logo-vector.png" />
+<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif
+" />
 
 Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 
