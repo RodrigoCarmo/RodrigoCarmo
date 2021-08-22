@@ -30,7 +30,8 @@ Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&show_icons=true) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo)]
+
 
 
 <div align="right" ><a href="https://www.linkedin.com/in/rodrigocarmo97/"><img width="48px" height="48px" alt="LinkedIn" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" /></a></div>
