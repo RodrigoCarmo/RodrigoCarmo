@@ -4,6 +4,7 @@
 
 Me chamo Rodrigo, tenho 23 anos e sou programador back-end.
 
+- 📝 Atuo no back-end, mas estou me expandindo para o front e mobile.
 - 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
 
