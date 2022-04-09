@@ -1,6 +1,6 @@
 ### Me chamo Rodrigo, tenho 24 anos e sou desenvolvedor back-end.
 
-<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" />
+<!-- <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" /> -->
 
 
 
