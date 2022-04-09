@@ -2,10 +2,8 @@
 
 <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" />
 
-Me chamo Rodrigo, tenho 24 anos e sou programador back-end.
+Me chamo Rodrigo, tenho 24 anos e sou desenvolvedor back-end.
 
-- 📝 Atuo no back-end, mas estou me expandindo para o front e mobile.
-- 📚 Programo com Node.js, mas estou sempre pronto para novas ferramentas.
 - 👨‍💻 As principais ferramentas que utilizo são:  
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
