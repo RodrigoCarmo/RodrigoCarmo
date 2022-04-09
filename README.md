@@ -1,10 +1,10 @@
-### Me chamo Rodrigo, tenho 24 anos e sou desenvolvedor back-end.
+
 
 <!-- <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" /> -->
 
 
 
-## 👨‍💻 As principais ferramentas que utilizo são:  
+### 👨‍💻 As principais ferramentas que utilizo são:  
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
