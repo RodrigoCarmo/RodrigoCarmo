@@ -23,8 +23,10 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true)<div align="right">
+<div style="display: inline-block;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true)
+</div>
+<div style="display: inline-block;">
 <img src="public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.jpg" alt="Texto alternativo" width="200" height="200">
 </div>
 
