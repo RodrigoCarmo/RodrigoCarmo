@@ -19,13 +19,13 @@
 
 
 
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true)
 <img src="public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.jpg" alt="Texto alternativo" width="200" height="200">
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocarmo&layout=compact&&show_icons=true&theme=vue&hide_border=true)
 
 
 
