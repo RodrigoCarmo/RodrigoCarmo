@@ -1,7 +1,6 @@
 
 
-<!-- <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif" /> -->
-
+![cat-laptop](public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.png)
 
 
 ### 👨‍💻 As principais ferramentas que utilizo são:  
