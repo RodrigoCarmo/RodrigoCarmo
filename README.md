@@ -1,6 +1,6 @@
 
 
-![cat-laptop](public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.png)
+![cat-laptop](public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.jpg)
 
 
 ### 👨‍💻 As principais ferramentas que utilizo são:  
