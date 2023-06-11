@@ -23,11 +23,13 @@
 
 
 
-<div style="display: inline-block; width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Texto alternativo" width="200" height="200">
-</div>
-<div style="display: inline-block; width: 50%;">
-<img src="public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.jpg" alt="Texto alternativo" width="200" height="200">
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Texto alternativo" width="200" height="200">
+  </div>
+  <div style="flex: 50%;">
+    <img src="public/_418dcbd5-b627-46b4-8439-a3036a5f0cdf.jpg" alt="Texto alternativo" width="200" height="200">
+  </div>
 </div>
 
 
