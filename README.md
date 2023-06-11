@@ -23,7 +23,7 @@
 
 
 
-<div style="display: flex;">
+<div class="d-flex">
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=rodrigocarmo&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Texto alternativo" width="200" height="200">
   </div>
