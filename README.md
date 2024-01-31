@@ -20,7 +20,7 @@ Com 2 anos de experiência no desenvolvimento de software, tive a oportunidade d
 - **Controle de Versão e Colaboração:** Gerenciamento do versionamento de código usando Git, colaborando com equipes em ambientes de desenvolvimento ágil através de Azure DevOps, GitLab e GitHub.
 - **Gestão de Projetos:** Utilização de ferramentas como Jira e Trello para rastrear o progresso dos projetos e manter a equipe alinhada com os objetivos.
 - **Observabilidade:** Utilização de Kibana para análise em tempo real e tomada de decisões, monitorando o desempenho e a saúde dos sistemas.
-- **Mensageria e Integração:** Implementação de comunicação assíncrona com RabbitMQ e Kafka.
+- **Comunicação assíncrona:** Implementação de comunicação assíncrona com RabbitMQ e Kafka.
 
 ## Certificação em Nuvem ☁️
 
